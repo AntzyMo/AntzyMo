@@ -1,4 +1,7 @@
-I'm AntzyMo 👋 / Front-end developer.
+### Hi 👋, I'm Antzy Mo
+
+- 💻 Front-end development
+- 🧑‍💻 Open source enthusiast
 
 <!-- <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/> -->
 
